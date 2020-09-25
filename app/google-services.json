@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914689342404",
+    "firebase_url": "https://fir-database-3adbc.firebaseio.com",
+    "project_id": "fir-database-3adbc",
+    "storage_bucket": "fir-database-3adbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914689342404:android:c41a9539bf9c0937dd0291",
+        "android_client_info": {
+          "package_name": "com.example.findmypet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914689342404-6t0jgeaevdg4hlf601l3befpo3i59cde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkEpCHoGjIzT2nufeFHqThVjO1eEaxDKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914689342404-6t0jgeaevdg4hlf601l3befpo3i59cde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
